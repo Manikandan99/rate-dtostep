@@ -1,0 +1,3 @@
+"Script '"/DTOApplication/DTOLocation[@id='" ++ vars.LocationProperties ++ "'][1]"/DTOLocationDetail[@DetailTypeCd='CommercialPropertyLocationDetail'][1]/@ProtectionClassCd ' has errors: 
+	Invalid input '=', expected ']' for the selector expression. (line 1, column 106):
+ at 1 : 1" evaluating expression: "#["/DTOApplication/DTOLocation[@id='" ++ vars.LocationProperties ++ "'][1]"/DTOLocationDetail[@DetailTypeCd='CommercialPropertyLocationDetail'][1]/@ProtectionClassCd]".
