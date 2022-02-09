@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Policy>
+  <PolType>CNPK</PolType>
+  <Zip>80003</Zip>
+  <EffDate>20211117</EffDate>
+  <ExpDate>20221117</ExpDate>
+  <PolFeeOR2></PolFeeOR2>
+  <PolFeeOR></PolFeeOR>
+  <LiabExp>2000000</LiabExp>
+  <ProdExp>0</ProdExp>
+</Policy>
